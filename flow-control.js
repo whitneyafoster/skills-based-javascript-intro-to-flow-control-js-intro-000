@@ -32,10 +32,10 @@ switch (age) {
   case 14:
     return "You are a teenager";
     break;
-  case 15: 
+  case 15:
       return "You are a teenager";
       break;
-  case 16: 
+  case 16:
       return "You are a teenager";
       break;
   case 17:
@@ -49,7 +49,7 @@ switch (age) {
       break;
   default:
     return "You are not a teenager";
-    
+
 }
 
 }
